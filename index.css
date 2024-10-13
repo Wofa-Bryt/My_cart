@@ -1,0 +1,50 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: hsl(30, 11%, 86%);
+    background-position: center;
+
+}
+
+.Container {
+    margin: auto;
+    display: flex;
+    height: 500px;
+    background-color: #fff;
+    width: 550px;
+}
+
+.perfume {
+    padding-left: 30px;
+    align-items: center;
+    padding-right: 20px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+h4,p,span {
+    color: rgb(165, 163, 161);
+}
+
+button {
+    color: #ffff;
+    background-color: hsl(158, 36%, 37%);
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+button:hover {
+    background-color: hsl(158, 52%, 61%);
+}
+
+strong {
+    color:  hsl(158, 36%, 37%);
+    font-size: 40px;
+}
